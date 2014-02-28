@@ -351,3 +351,47 @@ __Based on__:
 4. Stakeholders
 5. Assumptions and Constraints
 6. Business Requirements
+
+
+## Requirements Engineering
+
+- Creating, modifying, and managing requirements over a product's lifetime
+
+### SRS
+
+__An SRS is the output of the produce design process.__
+
+__SRS Template__
+
+![SRS Template](http://s18.postimg.org/vhgn85f9l/Selection_084.png)
+
+- A software requirements specification is a document cataloging all the requirements for a softyware product.
+- Should contain a statement of the product design problem (may cite mission statement)
+- Should contain a solution to the product design problem
+
+### Technical Requirements
+
+- A statement of a feature, function, capability, or property that a product must have (that is not a business requirement)
+
+#### Functional Requirement
+
+- Specifies an __operation or function__ that a software product must be able to __perform__
+
+#### Non-functional requirement
+
+- Specifies how a software product must __behave__
+
+#### Data requirement
+
+- Specifief is certain data must be input to, output from, and/or stored by a product
+
+
+### Needs Elicitation Techniques
+
+- Interviews - Ask stakeholders prepared questions.
+- Observation - Watch users at work.
+- Focus Groups - Hold facilitated discussions.
+- Elicitation Workshops - Hold facilitated directed seminars with specific goals.
+- Document Studies - Read and analyze relevant documents
+- Competitive Product Studies - Analyze competitive products.
+- Prototype Demonstrations - Use prototypes to stimulate discussion and search unstated needs and desires.
