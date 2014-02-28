@@ -338,3 +338,16 @@ __Based on__:
 - Resources available for development are analyzed to determine which product to develop.
 - Resource availability also determines the start time and duration or projects.
 - The result is __product plan__
+
+
+## Project Missions Statement
+
+- The input for product design
+- Document that defines a development project's goals and limits
+
+1. Introduction
+2. Product Vision and Project Scope
+3. Target Markets
+4. Stakeholders
+5. Assumptions and Constraints
+6. Business Requirements
