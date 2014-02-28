@@ -388,10 +388,10 @@ __SRS Template__
 
 ### Needs Elicitation Techniques
 
-- Interviews - Ask stakeholders prepared questions.
-- Observation - Watch users at work.
-- Focus Groups - Hold facilitated discussions.
-- Elicitation Workshops - Hold facilitated directed seminars with specific goals.
-- Document Studies - Read and analyze relevant documents
-- Competitive Product Studies - Analyze competitive products.
-- Prototype Demonstrations - Use prototypes to stimulate discussion and search unstated needs and desires.
+- __Interviews__ - Ask stakeholders prepared questions.
+- __Observation__ - Watch users at work.
+- __Focus Groups__ - Hold facilitated discussions.
+- __Elicitation Workshops__ - Hold facilitated directed seminars with specific goals.
+- __Document Studies__ - Read and analyze relevant documents
+- __Competitive Product Studies__ - Analyze competitive products.
+- __Prototype Demonstrations__ - Use prototypes to stimulate discussion and search unstated needs and desires.
