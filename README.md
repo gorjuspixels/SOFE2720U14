@@ -305,4 +305,36 @@ Type | Description | Examples
 New | Different from anything else in the product line | Tax preparation product in a line of a ccounting products
 Derivative | Similar to one or more existing product in the product line | Database management system for individual users in a line of systems for corporate users
 Maintenance Release | New release of an existing product | Third release of a spreadsheet
+Visionary Technology | New technology must be developed for the product | Mobile computing, wearable automatic lecture note-taker
+Leading-Edge Technology | Proven technology not yet in widespread use | Peer-to-peer file sharing products
+Established Technology | Widely used, standard technology | Products with GUIs
 
+## Product Planning
+
+1. Identifying opportunities
+2. Evaluate & Prioritize Opportunities
+3. Allocate Resources & Determine Timing
+
+### Identifying Opportunities
+
+New product ideas come from customers, developers, marketers...
+
+- __Opportunity funnel__: mechanism for collecting product ideas from diverse sources.
+- __Opportunity statement__: brief description of a product development idea
+
+
+### Evaluate & Prioritize Opportunities
+
+__Based on__:
+
+- Competitive strategy
+- Market segmentation
+- Technology trajectories
+- Software reuse
+- Profitability
+
+### Allocate Resources & Determine Timing
+
+- Resources available for development are analyzed to determine which product to develop.
+- Resource availability also determines the start time and duration or projects.
+- The result is __product plan__
